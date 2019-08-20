@@ -72,7 +72,7 @@ document.onkeyup = function(e){
     }
 }
 
-readLevel("file:///C:/Users/Luke%20Maxwell/Desktop/Bullet/levels/1/0.txt")
+readLevel("levels/1/0.txt")
 
 
 function readTextFile(file)
